@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/drawable-v21/notification_action_background.xml"
+    }
+]

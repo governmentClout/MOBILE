@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/ucrop_activity_photobox.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/layout/ucrop_activity_photobox.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/ucrop_controls.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/layout/ucrop_controls.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/681854e3d2d4fe435d5bcf163c6922e3/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/ucrop_aspect_ratio.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/layout/ucrop_aspect_ratio.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_round.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/ucrop_fragment_photobox.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/layout/ucrop_fragment_photobox.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/ucrop_layout_rotate_wheel.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/layout/ucrop_layout_rotate_wheel.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_small.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/com_facebook_login_fragment.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/ucrop_view.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/layout/ucrop_view.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/tw__activity_oauth.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/ucrop_layout_scale_wheel.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/layout/ucrop_layout_scale_wheel.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_large.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/layout/tooltip.xml",
+        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/layout/tooltip.xml"
+    }
+]

@@ -207,9 +207,9 @@ const analyzePoll = (responses) => {
         }
     }
     return {
-        yes: yes == 0 ? 0 : (yes * 100) / length,
-        no: no == 0 ? 0 : (no * 100) / length,
-        undecided: undecided == 0 ? 0 : (undecided * 100) / length
+        yes: yes == 0 ? 0 : Math.round(((yes * 100) / length) * 100) / 100,
+        no: no == 0 ? 0 : Math.round(((no * 100) / length) * 100) / 100,
+        undecided: undecided == 0 ? 0 : Math.round(((undecided * 100) / length) * 100) / 100
     };
 }
 

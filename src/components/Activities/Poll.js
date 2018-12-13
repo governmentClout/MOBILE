@@ -53,11 +53,9 @@ class Poll extends Component {
 
 
     componentWillReceiveProps(nextProps) {
-        if (nextProps.user && !isObjectEmpty(nextProps.user) && !this.state.filtered) {
-            console.log(nextProps, "nextProps");
-            this.setState({ filtered: true });
-            this.props.filterParticipatedPoll(this.props.user.uuid)
-        }
+        // if (nextProps.user && !isObjectEmpty(nextProps.user) && !this.state.filtered) {
+        //     this.props.filterParticipatedPoll(this.props.user.uuid)
+        // }
     }
 
     renderPolls() {

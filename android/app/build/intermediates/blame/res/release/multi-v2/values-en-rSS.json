@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rSS/values-en-rSS.xml",
+            "map": [
+                {
+                    "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/res/values-en-rSS/values-en-rSS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/release/values-en-rSS/values-en-rSS.xml",
+            "map": [
+                {
+                    "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/res/values-en-rSS/values-en-rSS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

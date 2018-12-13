@@ -47,12 +47,16 @@ class PollSection extends Component {
 
     selectOption(selected) {
         let data = {
-            status: selected,
+            status: selected + "",
             poll: this.props.polluuid
         }
         console.log(data);
         this.props.respondToPoll(data);
         this.setState({ selected, participated: true });
+
+    }
+
+    componentDidMount() {
         const { responses, useruuid } = this.props;
         let response = hasRespondedToPoll(useruuid, responses);
         this.setState({ percentages: analyzePoll(responses) });
@@ -60,16 +64,18 @@ class PollSection extends Component {
             console.log(response);
             this.setState({ selected: response.status, participated: true })
         }
-
     }
 
-    componentWillMount() {
-        const { responses, useruuid } = this.props;
-        let response = hasRespondedToPoll(useruuid, responses);
-        this.setState({ percentages: analyzePoll(responses) });
-        if (!isObjectEmpty(response)) {
-            console.log(response);
-            this.setState({ selected: response.status, participated: true })
+    componentWillReceiveProps(nextProps) {
+        console.log(nextProps.responses);
+        if (nextProps) {
+            const { responses, useruuid } = nextProps;
+            let response = hasRespondedToPoll(useruuid, responses);
+            this.setState({ percentages: analyzePoll(responses) });
+            if (!isObjectEmpty(response)) {
+                console.log(response);
+                this.setState({ selected: response.status, participated: true })
+            }
         }
     }
 
