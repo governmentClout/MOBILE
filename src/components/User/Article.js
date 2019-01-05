@@ -87,7 +87,9 @@ class Article extends Component {
             <Card style={[{ elevation: 0, borderTopWidth: 0 }, style]}>
                 <CardItem>
                     <Left>
-                        <Thumbnail small source={image} />
+                        <TouchableOpacity onPress={() => Actions.userprofile({ frienduuid: post.user })}>
+                            <Thumbnail small source={image} />
+                        </TouchableOpacity>
                         <Body>
                             <Text>{user.firstName} {user.lastName}</Text>
                             <Text note></Text>

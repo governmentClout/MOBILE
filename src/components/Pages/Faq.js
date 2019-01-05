@@ -6,11 +6,14 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { Text } from './../Reusables';
 import { logo, SITE_COLOR, FACEBOOK_COLOR, TWITTER_COLOR, GOOGLE_COLOR, WHITE } from './../../style';
 import Footer from './Footer';
+import Detail from './Detail';
 class Faq extends Component {
 
     constructor(props) {
         super(props);
-
+        this.state = {
+            all: false
+        }
     }
 
     render() {
@@ -26,11 +29,11 @@ class Faq extends Component {
                         <Text style={{ color: SITE_COLOR }}>General</Text>
                     </TouchableOpacity>
                     <View style={{ flexDirection: 'row' }}>
-                        <TouchableOpacity>
+                        <TouchableOpacity onPress={() => this.setState({ all: true })}>
                             <Text style={{ color: SITE_COLOR }}>Expand All</Text>
                         </TouchableOpacity>
                         <Text> | </Text>
-                        <TouchableOpacity>
+                        <TouchableOpacity onPress={() => this.setState({ all: false })}>
                             <Text style={{ color: SITE_COLOR }}>Collapse All</Text>
                         </TouchableOpacity>
                     </View>
@@ -45,30 +48,41 @@ class Faq extends Component {
                             At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
                         </Text>
                     </View>
-                    <View style={{ flexDirection: 'row', justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', backgroundColor: BACK_COLOR, justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', backgroundColor: BACK_COLOR, justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
+
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
+
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
+
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
 
                 </View>
 
@@ -78,31 +92,41 @@ class Faq extends Component {
 
                 <View style={{ marginTop: 15, marginLeft: 15, marginRight: 15, borderWidth: 0.5 }}>
 
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
 
-                    <View style={{ flexDirection: 'row', justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', backgroundColor: BACK_COLOR, justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', backgroundColor: BACK_COLOR, justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
+                    />
+
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
+
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
+
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
 
                 </View>
 
@@ -113,30 +137,38 @@ class Faq extends Component {
                 <View style={{ marginTop: 15, marginLeft: 15, marginRight: 15, borderWidth: 0.5 }}>
 
 
-                    <View style={{ flexDirection: 'row', justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', backgroundColor: BACK_COLOR, justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={{ flexDirection: 'row', backgroundColor: BACK_COLOR, justifyContent: 'space-between', padding: 10 }}>
-                        <Text>How does Tutstack work?</Text>
-                        <TouchableOpacity style={{ borderRadius: 100, padding: 3, paddingLeft: 9, paddingRight: 9, backgroundColor: SITE_COLOR }}>
-                            <Text style={{ color: WHITE, fontWeight: 'bold' }}>+</Text>
-                        </TouchableOpacity>
-                    </View>
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
+                    <Detail
+                        content="GClout is an  Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development of a product (done well when everyone works together).
+                                At Google, to encourage teamwork, we emphasize the product triad. This triad consists of UX, PM and eng, and the reason why we emphasize this triad is because it is essentially what leads to the development.
+                            "
+                        all={this.state.all}
+                        title="How does Tutstack work?"
+
+                    />
                 </View>
                 <Footer />
             </ScrollView>

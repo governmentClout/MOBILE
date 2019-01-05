@@ -26,7 +26,7 @@ export default (state = INITIAL_STATE, action) => {
 
         case GET_POSTS:
 
-            return { ...state, posts: action.payload };
+            return { ...state, posts: action.payload.posts };
 
         case SET_ACTIVE_POST:
             return { ...state, activePost: filterPost(action.payload, state.posts) }

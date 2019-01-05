@@ -41,7 +41,7 @@ export default (state = INITIAL_STATE, action) => {
                 photo: action.payload.photo,
                 lga: action.payload.lga
             };
-        
+
         case GET_USER_PROFILE:
 
             return {
@@ -49,8 +49,8 @@ export default (state = INITIAL_STATE, action) => {
                 userprofile: action.payload,
             };
 
-        
-        
+
+
         default:
             return state;
     }

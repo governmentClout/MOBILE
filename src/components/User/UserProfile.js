@@ -35,8 +35,8 @@ class UserProfile extends Component {
         }
     }
 
-    componentDidMount() {
-        // this.props.getMyProfile(this.props.uuid);
+    componentWillMount() {
+        this.props.getUserProfile(this.props.frienduuid);
     }
 
     render() {
@@ -61,15 +61,7 @@ class UserProfile extends Component {
 
                     </View>
                 </View>
-                <View style={{ flexDirection: 'row', justifyContent: 'space-between', marginLeft: 15, marginRight: 15 }}>
-                    <Button style={[styles.editButtonStyle, { backgroundColor: SITE_COLOR }]} small onPress={() => Actions.requestupgrade()}>
-                        <Text style={{ color: WHITE, fontSize: 13, padding: 5, fontFamily: FONT_FAMILY }}>Upgrade</Text>
-                    </Button>
-                    <Button style={styles.editButtonStyle} bordered small onPress={() => Actions.editprofile()}>
-                        <Text style={{ color: SITE_COLOR, fontSize: 13, padding: 5, fontFamily: FONT_FAMILY }}>Edit Profile</Text>
-                    </Button>
 
-                </View>
 
                 <View style={{ marginTop: 5 }}>
                     <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, fontSize: 22, color }}>{this.props.userprofile.firstName} {this.props.userprofile.lastName}</Text>

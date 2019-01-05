@@ -127,8 +127,8 @@ export const uploadBackgroundImage = (uuid, image) => {
 
 
 export const getUserProfile = (uuid) => {
+    console.log(uuid, "user profile");
     return (dispatch) => {
-        Actions.userprofile();
         const { api_url } = settings;
         axios.get(api_url + 'profiles/' + uuid)
             .then(res => {

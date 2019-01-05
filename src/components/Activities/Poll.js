@@ -149,7 +149,7 @@ class Poll extends Component {
                     </View>
 
                     {this.state.activeSort == ALL ? this.renderPolls() : this.renderParticipatedPolls()}
-                    {/* <View style={{ marginTop: 40 }}></View> */}
+                    
                 </ScrollView>
             </View>
         );

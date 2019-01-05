@@ -28,6 +28,7 @@ export const createPost = (uuid, data) => {
                 dispatch(stopLoading());
                 Actions.pop();
                 dispatch(getPosts());
+                console.log(res.data);
             })
             .catch(err => {
                 dispatch(stopLoading());
@@ -184,7 +185,7 @@ export const getPosts = () => {
 
         axios.get(api_url + 'posts')
             .then(res => {
-
+                console.log(res.data);
                 dispatch({
                     type: GET_POSTS,
                     payload: res.data
