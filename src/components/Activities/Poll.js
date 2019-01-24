@@ -71,6 +71,7 @@ class Poll extends Component {
                         sector={poll.sector}
                         opinion={poll.opinion}
                         polluuid={poll.uuid}
+                        poll={poll}
                         useruuid={this.props.user.uuid}
                         responses={responses}
                         firstname={user ? user.firstName : ''}
@@ -96,6 +97,7 @@ class Poll extends Component {
                         sector={poll.sector}
                         opinion={poll.opinion}
                         polluuid={poll.uuid}
+                        poll={poll}
                         useruuid={this.props.user.uuid}
                         responses={responses}
                         firstname={user ? user.firstName : ''}
@@ -149,7 +151,7 @@ class Poll extends Component {
                     </View>
 
                     {this.state.activeSort == ALL ? this.renderPolls() : this.renderParticipatedPolls()}
-                    
+
                 </ScrollView>
             </View>
         );

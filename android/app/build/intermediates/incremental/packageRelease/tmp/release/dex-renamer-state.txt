@@ -1,4 +1,4 @@
-#Thu Dec 13 09:21:05 WAT 2018
+#Sun Jan 06 21:55:46 WAT 2019
 base.0=/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex

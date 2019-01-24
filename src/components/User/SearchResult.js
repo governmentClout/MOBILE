@@ -48,7 +48,7 @@ class SearchResult extends Component {
                     <View key={i} >
                         <ListItem style={styles.listItemStyle} avatar>
                             <Left>
-                                <TouchableOpacity onPress={() => this.props.getUserProfile(friend.uuid)}>
+                                <TouchableOpacity onPress={() => Actions.userprofile({ frienduuid: friend.uuid })}>
                                     <Thumbnail small source={image} />
                                 </TouchableOpacity>
 

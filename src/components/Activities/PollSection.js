@@ -82,7 +82,7 @@ class PollSection extends Component {
 
     render() {
 
-        const { sector, opinion, useravatar, firstname = '', lastname = '', responses, useruuid } = this.props;
+        const { sector, poll, opinion, useravatar, firstname = '', lastname = '', responses, useruuid } = this.props;
 
         let image = null;
         if (useravatar != undefined && useravatar != "") {
@@ -94,7 +94,9 @@ class PollSection extends Component {
             <Card style={{ elevation: 0, borderTopWidth: 0, marginTop: 5, marginBottom: 5 }}>
                 <CardItem style={{ paddingRight: 5 }}>
                     <Left>
-                        <Thumbnail small source={image} />
+                        <TouchableOpacity onPress={() => Actions.userprofile({ frienduuid: poll.created_by })}>
+                            <Thumbnail small source={image} />
+                        </TouchableOpacity>
                         <Body>
                             <Text style={{ fontWeight: 'bold' }}>{lastname + ' ' + firstname}</Text>
                             <Text note>{sector}</Text>
