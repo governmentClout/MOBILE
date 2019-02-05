@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSS/values-en-rSS.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/values-en-rSS/values-en-rSS.xml",
             "map": [
                 {
-                    "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/res/values-en-rSS/values-en-rSS.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/res/values-en-rSS/values-en-rSS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/values-en-rSS/values-en-rSS.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSS/values-en-rSS.xml",
             "map": [
                 {
-                    "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/res/values-en-rSS/values-en-rSS.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/res/values-en-rSS/values-en-rSS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

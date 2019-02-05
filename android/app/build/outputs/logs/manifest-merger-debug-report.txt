@@ -1,458 +1,458 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-twitter-signin] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-svg] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-google-signin] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-28:12
-MERGED from [:react-native-spinkit] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
-MERGED from [:react-native-linear-gradient] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-vector-icons] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-share] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [:react-native-play-audio] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-fbsdk] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:1-30:12
-MERGED from [com.facebook.react:react-native:0.55.4] /home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/AndroidManifest.xml:2:1-15:12
-MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/9dc0d68696f40df545a0ecae45a0eb85/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-login:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/681854e3d2d4fe435d5bcf163c6922e3/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-share:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/d27797236a4c17938cfd95e23fba27ad/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:21:1-37:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:17:1-39:12
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:18:1-35:12
-MERGED from [id.zelory:compressor:2.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/50d72def775f0c09a85bb7febaa377b1/AndroidManifest.xml:2:1-12:12
-MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/487b4809c68f6ece04e222ee7d6f2e30/AndroidManifest.xml:2:1-10:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1987a51c2ff3ea2b750c7c25169a53f1/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a9fd900d548353baefd7724475ea30e/AndroidManifest.xml:17:1-28:12
-MERGED from [com.facebook.android:facebook-places:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/617cf860448cadd00319f1d18bde87a3/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/df737af33b56cae5be5064afd11299bc/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:21:1-35:12
-MERGED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:21:1-53:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/d1bfe45f7c5111f0a97a07bd7ac0376c/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/1be0e76ed78bc49cfd772828da195a98/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/1a5e7efd9bf297e9248f8904637d462b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/26742f52f84b78c0ec5a9e9278dec932/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2a967fa220103806ae578b87d01f7407/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/75a08db11774e4662e55d1224790facf/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d32b4ffe36ce0d0fa1394513d31e16e5/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/45d00596a515c0c856d3e6d7166d3183/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:customtabs:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/b621ff6a6bc06703ca47cf026b4c4ae2/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/033837904b80ebdf2abb9e8017eb6431/AndroidManifest.xml:17:1-28:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/91dc6ea942b0ec92995a786b9feecacd/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f207cf1c50b270100cc60fd904b7f24a/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e0f3bd0fb6403dd6eadb4bc198b921fa/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/6454739a98b33d80551d2499b4a3c78e/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /home/franko4don/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/efe512916d57f456b2ae718b43191604/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2aaa271190822662b7ffe0dac8baabd2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/49dbd4f1557793ed2b505ecf37d46205/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/02f4757448100571fc5f6e82177f5655/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ed8424706c595b0732a8c54d0cb7ef32/AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed718d1169e8ac2d929f655181ae8487/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:1-30:12
+MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:17:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:18:1-35:12
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:21:1-53:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0854247ce8ba2dd655be0d8f169b3ffb/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/138f670d9fb33b241f7558f95922e721/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf9dbd0ac45b266b0abe600f71c49c53/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/62a6e48ab5a49b97ddb9b7f680f48b87/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/636ae5f265421f3f512dd8df0128a58c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/533c58b7c75b4efe55bda16d7e149305/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/82d7b8ee9228cf93df7853eb2346a10b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/716483745f5f903ad47cf25f156e17f2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be017a1dc3425a2122fafed4fb5db2ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/936b610a6b10ec4af2e2a2c0d54d460e/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:2:5-25
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:25:5-67
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:25:5-67
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.4] /home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/AndroidManifest.xml:11:5-78
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.CAMERA
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:6:5-64
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:6:5-64
 	android:name
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:6:22-62
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:6:22-62
 application
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
-MERGED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
-MERGED from [:react-native-spinkit] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
-MERGED from [:react-native-spinkit] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
-MERGED from [:react-native-fbsdk] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
-MERGED from [:react-native-fbsdk] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] /home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] /home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/9dc0d68696f40df545a0ecae45a0eb85/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/9dc0d68696f40df545a0ecae45a0eb85/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/681854e3d2d4fe435d5bcf163c6922e3/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/681854e3d2d4fe435d5bcf163c6922e3/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/d27797236a4c17938cfd95e23fba27ad/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/d27797236a4c17938cfd95e23fba27ad/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:28:5-35:19
-MERGED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:28:5-35:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:22:5-37:19
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:27:5-33:19
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:27:5-33:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1987a51c2ff3ea2b750c7c25169a53f1/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1987a51c2ff3ea2b750c7c25169a53f1/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a9fd900d548353baefd7724475ea30e/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a9fd900d548353baefd7724475ea30e/AndroidManifest.xml:22:5-26:19
-MERGED from [com.facebook.android:facebook-places:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/617cf860448cadd00319f1d18bde87a3/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-places:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/617cf860448cadd00319f1d18bde87a3/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/df737af33b56cae5be5064afd11299bc/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/df737af33b56cae5be5064afd11299bc/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:28:5-33:19
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:28:5-33:19
-MERGED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:28:5-51:19
-MERGED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:28:5-51:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/1a5e7efd9bf297e9248f8904637d462b/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/1a5e7efd9bf297e9248f8904637d462b/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/26742f52f84b78c0ec5a9e9278dec932/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/26742f52f84b78c0ec5a9e9278dec932/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2a967fa220103806ae578b87d01f7407/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2a967fa220103806ae578b87d01f7407/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/75a08db11774e4662e55d1224790facf/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/75a08db11774e4662e55d1224790facf/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d32b4ffe36ce0d0fa1394513d31e16e5/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d32b4ffe36ce0d0fa1394513d31e16e5/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/45d00596a515c0c856d3e6d7166d3183/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/45d00596a515c0c856d3e6d7166d3183/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:customtabs:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/b621ff6a6bc06703ca47cf026b4c4ae2/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/b621ff6a6bc06703ca47cf026b4c4ae2/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/033837904b80ebdf2abb9e8017eb6431/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/033837904b80ebdf2abb9e8017eb6431/AndroidManifest.xml:22:5-26:19
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/6454739a98b33d80551d2499b4a3c78e/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/6454739a98b33d80551d2499b4a3c78e/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /home/franko4don/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/efe512916d57f456b2ae718b43191604/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /home/franko4don/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/efe512916d57f456b2ae718b43191604/AndroidManifest.xml:2:3-17
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed718d1169e8ac2d929f655181ae8487/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed718d1169e8ac2d929f655181ae8487/AndroidManifest.xml:24:5-28:19
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:22:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:27:5-33:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/533c58b7c75b4efe55bda16d7e149305/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/533c58b7c75b4efe55bda16d7e149305/AndroidManifest.xml:2:3-17
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from [:react-native-spinkit] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-35
+		ADDED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:10:7-36
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:10:7-36
 	android:allowBackup
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:8:7-38
 activity#com.gclout.MainActivity
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-twitter-signin] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-twitter-signin] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-svg] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-google-signin] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-google-signin] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-spinkit] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-spinkit] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-share] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-share] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-play-audio] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-play-audio] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-fbsdk] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
-MERGED from [:react-native-fbsdk] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.react:react-native:0.55.4] /home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/9dc0d68696f40df545a0ecae45a0eb85/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/9dc0d68696f40df545a0ecae45a0eb85/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/681854e3d2d4fe435d5bcf163c6922e3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/681854e3d2d4fe435d5bcf163c6922e3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/d27797236a4c17938cfd95e23fba27ad/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/d27797236a4c17938cfd95e23fba27ad/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:21:5-23:78
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:20:5-44
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:23:5-44
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:23:5-44
-MERGED from [id.zelory:compressor:2.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/50d72def775f0c09a85bb7febaa377b1/AndroidManifest.xml:8:5-10:41
-MERGED from [id.zelory:compressor:2.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/50d72def775f0c09a85bb7febaa377b1/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/487b4809c68f6ece04e222ee7d6f2e30/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/487b4809c68f6ece04e222ee7d6f2e30/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1987a51c2ff3ea2b750c7c25169a53f1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1987a51c2ff3ea2b750c7c25169a53f1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a9fd900d548353baefd7724475ea30e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a9fd900d548353baefd7724475ea30e/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-places:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/617cf860448cadd00319f1d18bde87a3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-places:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/617cf860448cadd00319f1d18bde87a3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/df737af33b56cae5be5064afd11299bc/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/df737af33b56cae5be5064afd11299bc/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/d019d0ef7e3e1148621697230c5400cf/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:24:5-26:41
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/d1bfe45f7c5111f0a97a07bd7ac0376c/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/d1bfe45f7c5111f0a97a07bd7ac0376c/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/1be0e76ed78bc49cfd772828da195a98/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/1be0e76ed78bc49cfd772828da195a98/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/1a5e7efd9bf297e9248f8904637d462b/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/1a5e7efd9bf297e9248f8904637d462b/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/26742f52f84b78c0ec5a9e9278dec932/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/26742f52f84b78c0ec5a9e9278dec932/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2a967fa220103806ae578b87d01f7407/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2a967fa220103806ae578b87d01f7407/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/75a08db11774e4662e55d1224790facf/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/75a08db11774e4662e55d1224790facf/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d32b4ffe36ce0d0fa1394513d31e16e5/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d32b4ffe36ce0d0fa1394513d31e16e5/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/45d00596a515c0c856d3e6d7166d3183/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/45d00596a515c0c856d3e6d7166d3183/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:customtabs:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/b621ff6a6bc06703ca47cf026b4c4ae2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/b621ff6a6bc06703ca47cf026b4c4ae2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/033837904b80ebdf2abb9e8017eb6431/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/033837904b80ebdf2abb9e8017eb6431/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/91dc6ea942b0ec92995a786b9feecacd/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/91dc6ea942b0ec92995a786b9feecacd/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f207cf1c50b270100cc60fd904b7f24a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f207cf1c50b270100cc60fd904b7f24a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e0f3bd0fb6403dd6eadb4bc198b921fa/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e0f3bd0fb6403dd6eadb4bc198b921fa/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/6454739a98b33d80551d2499b4a3c78e/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/6454739a98b33d80551d2499b4a3c78e/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:drawee:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2aaa271190822662b7ffe0dac8baabd2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2aaa271190822662b7ffe0dac8baabd2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/49dbd4f1557793ed2b505ecf37d46205/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/49dbd4f1557793ed2b505ecf37d46205/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/02f4757448100571fc5f6e82177f5655/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/02f4757448100571fc5f6e82177f5655/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ed8424706c595b0732a8c54d0cb7ef32/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ed8424706c595b0732a8c54d0cb7ef32/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed718d1169e8ac2d929f655181ae8487/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed718d1169e8ac2d929f655181ae8487/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:23:5-44
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0854247ce8ba2dd655be0d8f169b3ffb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0854247ce8ba2dd655be0d8f169b3ffb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/138f670d9fb33b241f7558f95922e721/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/138f670d9fb33b241f7558f95922e721/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf9dbd0ac45b266b0abe600f71c49c53/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf9dbd0ac45b266b0abe600f71c49c53/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/62a6e48ab5a49b97ddb9b7f680f48b87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/62a6e48ab5a49b97ddb9b7f680f48b87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/636ae5f265421f3f512dd8df0128a58c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/636ae5f265421f3f512dd8df0128a58c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/82d7b8ee9228cf93df7853eb2346a10b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/82d7b8ee9228cf93df7853eb2346a10b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/716483745f5f903ad47cf25f156e17f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/716483745f5f903ad47cf25f156e17f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be017a1dc3425a2122fafed4fb5db2ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be017a1dc3425a2122fafed4fb5db2ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/936b610a6b10ec4af2e2a2c0d54d460e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/936b610a6b10ec4af2e2a2c0d54d460e/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
-MERGED from [:react-native-share] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
-MERGED from [:react-native-share] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
 provider#android.support.v4.content.FileProvider
-ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
+ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-47
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-47
 	android:authorities
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-60
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-60
 	android:exported
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-37
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-67
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
+ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
 	android:resource
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-55
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-55
 	android:name
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-67
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-67
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-25:72
+ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-25:72
 	android:theme
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-69
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-69
 	android:name
-		ADDED from [:react-native-image-crop-picker] /home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-60
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-60
 activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:29:9-32:66
+ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:29:9-32:66
 	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:31:13-96
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:31:13-96
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:30:13-57
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:30:13-57
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:33:19-68
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:33:19-68
 activity#com.facebook.CustomTabActivity
-ADDED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:34:9-67
+ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:34:9-67
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/AndroidManifest.xml:34:19-64
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:34:19-64
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1987a51c2ff3ea2b750c7c25169a53f1/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1987a51c2ff3ea2b750c7c25169a53f1/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a9fd900d548353baefd7724475ea30e/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3a9fd900d548353baefd7724475ea30e/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2a967fa220103806ae578b87d01f7407/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2a967fa220103806ae578b87d01f7407/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/75a08db11774e4662e55d1224790facf/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/75a08db11774e4662e55d1224790facf/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d32b4ffe36ce0d0fa1394513d31e16e5/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d32b4ffe36ce0d0fa1394513d31e16e5/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/45d00596a515c0c856d3e6d7166d3183/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/45d00596a515c0c856d3e6d7166d3183/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:customtabs:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/b621ff6a6bc06703ca47cf026b4c4ae2/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/b621ff6a6bc06703ca47cf026b4c4ae2/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/033837904b80ebdf2abb9e8017eb6431/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/033837904b80ebdf2abb9e8017eb6431/AndroidManifest.xml:23:9-25:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:23:9-25:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:23:9-27:75
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:25:13-46
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:26:13-37
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:27:13-72
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:24:13-93
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:24:13-93
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:33:9-36:110
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:33:9-36:110
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:35:13-36
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:35:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:36:13-107
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:36:13-107
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/AndroidManifest.xml:34:13-89
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:34:13-89
 activity#com.twitter.sdk.android.core.identity.OAuthActivity
-ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:28:9-32:40
+ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:28:9-32:40
 	android:excludeFromRecents
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:31:13-46
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:31:13-46
 	android:exported
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:32:13-37
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:30:13-59
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:30:13-59
 	android:name
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/a6f437c5f87e0032f71070dddfe214fb/AndroidManifest.xml:29:13-79
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:29:13-79
 provider#com.facebook.marketing.internal.MarketingInitProvider
-ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:29:9-32:40
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:29:9-32:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:31:13-73
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:31:13-73
 	android:exported
-		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:32:13-37
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/be154961de8de10362a7f0739a0eb754/AndroidManifest.xml:30:13-81
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:30:13-81
 provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:39:9-42:40
+ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:39:9-42:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:41:13-72
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:42:13-37
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:40:13-70
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:40:13-70
 receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
-ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:44:9-50:20
+ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:44:9-50:20
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:46:13-37
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:45:13-86
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:45:13-86
 intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:47:13-49:29
+ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:47:13-49:29
 action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:48:17-95
+ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:48:17-95
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/171cb43375d0b8201847c8113e4a7b8d/AndroidManifest.xml:48:25-92
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:48:25-92
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/26742f52f84b78c0ec5a9e9278dec932/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/26742f52f84b78c0ec5a9e9278dec932/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/26742f52f84b78c0ec5a9e9278dec932/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:24:13-58
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed718d1169e8ac2d929f655181ae8487/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed718d1169e8ac2d929f655181ae8487/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/franko4don/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed718d1169e8ac2d929f655181ae8487/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:26:13-58

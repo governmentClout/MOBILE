@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/values-v24/values-v24.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/values-v24/values-v24.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/values-v24/values-v24.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -33,10 +33,10 @@
             ]
         },
         {
-            "outputFile": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51ef7e713f5e53daf9cfce9d7495b786/res/values-v24/values-v24.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -53,7 +53,7 @@
                     }
                 },
                 {
-                    "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/values-v24/values-v24.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout-v21/notification_action.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b1456381470ce741b110165aa7adf493/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/res/layout-v21/notification_template_icon_group.xml"
     }
 ]

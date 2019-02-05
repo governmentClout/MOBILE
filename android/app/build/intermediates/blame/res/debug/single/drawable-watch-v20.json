@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/aa85faccc41d3685178ebfb96d1539eb/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
     }
 ]

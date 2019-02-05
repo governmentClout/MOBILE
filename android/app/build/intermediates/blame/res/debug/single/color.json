@@ -1,102 +1,102 @@
 [
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/d27797236a4c17938cfd95e23fba27ad/res/color/com_facebook_send_button_text_color.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/switch_thumb_material_dark.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_tint_spinner.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/color/common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_tint_default.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_tint_switch_track.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/ucrop_scale_text_view_selector.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/color/ucrop_scale_text_view_selector.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_tint_seek_thumb.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_search_url_text.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/res/color/common_google_signin_btn_tint.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_tint_edittext.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/ucrop_scale_text_view_selector.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/color/ucrop_scale_text_view_selector.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/switch_thumb_material_light.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/res/color/com_facebook_button_text_color.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/62a0c049ecd64cde8ca8669419f2ae4c/res/color/com_facebook_button_text_color.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f23ff6fd76cfeb95952e1d871c0577fe/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_primary_text_material_light.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_primary_text_material_dark.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_tint_btn_checkable.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/res/color/com_facebook_send_button_text_color.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_btn_colored_text_material.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3244f17d7d5ddc5230e41f19e8d03c80/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/color/common_google_signin_btn_text_light.xml"
     }
 ]

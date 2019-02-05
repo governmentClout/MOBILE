@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
-        "source": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/drawable-ldpi-v4/ucrop_ic_cross.png"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/drawable-ldpi-v4/ucrop_ic_next.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/drawable-ldpi-v4/ucrop_ic_scale.png"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/drawable-ldpi-v4/ucrop_ic_next.png"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/drawable-ldpi-v4/ucrop_ic_reset.png"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/res/drawable-ldpi/icon.png"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/drawable-ldpi-v4/ucrop_ic_crop.png"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/drawable-ldpi-v4/ucrop_ic_angle.png"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/6a3ddd1807b6680e3e4cab6b75840a4c/res/drawable-ldpi-v4/ucrop_ic_done.png"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/drawable-ldpi-v4/ucrop_ic_done.png"
     }
 ]

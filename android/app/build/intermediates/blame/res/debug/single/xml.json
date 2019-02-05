@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/home/franko4don/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5fe53b7b5e88a4520698a44af18b6c32/res/xml/preferences.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
     },
     {
-        "merged": "/home/franko4don/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
-        "source": "/home/franko4don/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/res/xml/preferences.xml"
     }
 ]
