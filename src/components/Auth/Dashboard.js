@@ -117,7 +117,13 @@ class Dashboard extends Component {
                         heading={this.messageHeading()}>
                         <Messages />
                     </Tab>
-
+                    <Tab
+                        tabStyle={styles.tabStyle}
+                        activeTabStyle={styles.activeTabStyle}
+                        heading={this.petitionHeading()}>
+                        <Petition />
+                    </Tab>
+                    
                     <Tab
                         tabStyle={styles.tabStyle}
                         activeTabStyle={styles.activeTabStyle}
@@ -125,12 +131,7 @@ class Dashboard extends Component {
                         <Notification />
                     </Tab>
 
-                    <Tab
-                        tabStyle={styles.tabStyle}
-                        activeTabStyle={styles.activeTabStyle}
-                        heading={this.petitionHeading()}>
-                        <Petition />
-                    </Tab>
+                    
                 </Tabs>
 
             </Container>

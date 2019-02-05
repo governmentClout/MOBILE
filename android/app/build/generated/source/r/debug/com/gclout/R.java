@@ -3390,15 +3390,7 @@ containing a value of this type.
         public static final int common_open_on_phone=0x7f070039;
         public static final int common_signin_button_text=0x7f07003a;
         public static final int common_signin_button_text_long=0x7f07003b;
-        public static final int default_web_client_id=0x7f070069;
-        public static final int firebase_database_url=0x7f07006a;
-        public static final int gcm_defaultSenderId=0x7f07006b;
-        public static final int google_api_key=0x7f07006c;
-        public static final int google_app_id=0x7f07006d;
-        public static final int google_crash_reporting_api_key=0x7f07006e;
-        public static final int google_storage_bucket=0x7f07006f;
-        public static final int messenger_send_button_text=0x7f070070;
-        public static final int project_id=0x7f070071;
+        public static final int messenger_send_button_text=0x7f070069;
         public static final int search_menu_title=0x7f07003c;
         public static final int status_bar_notification_info_overflow=0x7f07003d;
         public static final int tw__login_btn_txt=0x7f07003e;
@@ -3415,8 +3407,6 @@ containing a value of this type.
         public static final int Animation_AppCompat_DropDownUp=0x7f0900ab;
         public static final int Animation_AppCompat_Tooltip=0x7f0900ac;
         public static final int Animation_Catalyst_RedBox=0x7f0900ad;
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f0900ae;
         public static final int Base_AlertDialog_AppCompat=0x7f0900af;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0900b0;

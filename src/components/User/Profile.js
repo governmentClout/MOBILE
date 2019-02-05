@@ -115,10 +115,10 @@ class Profile extends Component {
                 </View>
 
                 <View style={{ marginTop: 10 }}>
-                    <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, fontSize: 22, color }}>{this.props.profile.firstName} {this.props.profile.lastName}</Text>
+                    <Text style={{ textAlign: 'center', paddingTop: 10, fontFamily: FONT_FAMILY, fontSize: 22, color }}>{this.props.profile.firstName} {this.props.profile.lastName}</Text>
                 </View>
 
-                <View style={[{ flexDirection: 'row', justifyContent: 'space-around', marginTop: 15, paddingBottom: 15 }]}>
+                <View style={[{ flexDirection: 'row',justifyContent: 'space-around', marginTop: 15, paddingBottom: 15 }]}>
                     <View>
                         <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, fontSize: 17 }}>Following</Text>
                         <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, color: SITE_COLOR }}>800</Text>
@@ -137,15 +137,16 @@ class Profile extends Component {
                         <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17, color: headingcolor }}>Contact Information</Text>
 
                     </View>
+                    <View style={{flexDirection: 'row', marginRight: 10, marginBottom: 30 , justifyContent: 'space-between'}}>
+                        <View>
+                            <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>Email Address</Text>
+                            <Text style={{ fontFamily: FONT_FAMILY }}>{this.props.email}</Text>
+                        </View>
 
-                    <View style={{ marginBottom: 30 }}>
-                        <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>Email Address</Text>
-                        <Text style={{ fontFamily: FONT_FAMILY }}>{this.props.email}</Text>
-                    </View>
-
-                    <View>
-                        <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>Phone Number</Text>
-                        <Text style={{ fontFamily: FONT_FAMILY }}>+234 [0] {this.props.phone}</Text>
+                        <View>
+                            <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>Phone Number</Text>
+                            <Text style={{ fontFamily: FONT_FAMILY }}>+234 [0] {this.props.phone}</Text>
+                        </View>
                     </View>
                 </View>
 

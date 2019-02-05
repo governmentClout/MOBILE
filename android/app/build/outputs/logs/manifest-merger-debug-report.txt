@@ -4,15 +4,15 @@ ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/Androi
 INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-28:12
 MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
-MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:1-30:12
 MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:2:1-15:12
 MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/AndroidManifest.xml:2:1-11:12
@@ -21,10 +21,10 @@ MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.grad
 MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:21:1-37:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:17:1-39:12
 MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:18:1-35:12
-MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:2:1-12:12
 MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:2:1-10:12
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:17:1-39:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:17:1-28:12
 MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:21:1-31:12
@@ -90,10 +90,10 @@ ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/Androi
 		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:6:22-62
 application
 ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
 MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
 MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
 MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
 MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
 MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:13:5-20
@@ -108,10 +108,10 @@ MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gra
 MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:28:5-35:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:22:5-37:19
 MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:27:5-33:19
 MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:27:5-33:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:22:5-37:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:22:5-26:19
@@ -194,24 +194,24 @@ uses-sdk
 INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
 MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
 MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/5d3faaeb4d401c8398defd1bed20c7d4/AndroidManifest.xml:7:5-9:41
@@ -228,14 +228,14 @@ MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gra
 MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:21:5-23:78
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:20:5-44
 MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:23:5-44
 MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:23:5-44
-MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:8:5-10:41
-MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:6:5-8:41
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:20:5-44
@@ -307,11 +307,11 @@ INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/And
 		ADDED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/mac/Desktop/projects/mobile/gclout/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
-MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
-MERGED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+ADDED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+		ADDED from [:react-native-share] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-78
 provider#android.support.v4.content.FileProvider
 ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/gclout/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
 	android:grantUriPermissions
@@ -376,6 +376,16 @@ MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/c
 		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:28:13-35
 	android:name
 		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:27:13-51
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:29:13-79
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
@@ -394,16 +404,6 @@ ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/
 		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:36:13-107
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:34:13-89
-activity#com.twitter.sdk.android.core.identity.OAuthActivity
-ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:28:9-32:40
-	android:excludeFromRecents
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:31:13-46
-	android:exported
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:32:13-37
-	android:configChanges
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:30:13-59
-	android:name
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:29:13-79
 provider#com.facebook.marketing.internal.MarketingInitProvider
 ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:29:9-32:40
 	android:authorities

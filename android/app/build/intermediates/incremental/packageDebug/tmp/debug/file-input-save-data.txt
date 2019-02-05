@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 28 17:48:38 WAT 2019
+#Tue Feb 05 09:08:46 WAT 2019
 5.base=/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/x86_64/libimagepipeline.so

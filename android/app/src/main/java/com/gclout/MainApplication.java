@@ -3,24 +3,22 @@ package com.gclout;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.oblador.vectoricons.VectorIconsPackage;
 import com.goldenowl.twittersignin.TwitterSigninPackage;
 import com.horcrux.svg.SvgPackage;
-import co.apptailor.googlesignin.RNGoogleSigninPackage;
-import com.reactnative.ivpusic.imagepicker.PickerPackage;
 import com.react.rnspinkit.RNSpinkitPackage;
-import com.BV.LinearGradient.LinearGradientPackage;
-import com.facebook.reactnative.androidsdk.FBSDKPackage;
-import com.oblador.vectoricons.VectorIconsPackage;
 import cl.json.RNSharePackage;
 import com.RNPlayAudio.RNPlayAudioPackage;
+import com.BV.LinearGradient.LinearGradientPackage;
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
+import co.apptailor.googlesignin.RNGoogleSigninPackage;
+import com.facebook.reactnative.androidsdk.FBSDKPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-
 import com.facebook.CallbackManager;
 import com.facebook.FacebookSdk;
-import com.facebook.reactnative.androidsdk.FBSDKPackage;
 import com.facebook.appevents.AppEventsLogger;
 
 import java.util.Arrays;
@@ -42,14 +40,19 @@ public class MainApplication extends Application implements ReactApplication {
 
     @Override
     protected List<ReactPackage> getPackages() {
-      return Arrays.<ReactPackage>asList(new MainReactPackage(),
+      return Arrays.<ReactPackage>asList(
+          new MainReactPackage(),
+            new VectorIconsPackage(),
             new TwitterSigninPackage(),
             new SvgPackage(),
-            new RNGoogleSigninPackage(),
-            new PickerPackage(),
             new RNSpinkitPackage(),
-            new LinearGradientPackage(), new FBSDKPackage(mCallbackManager),
-          new VectorIconsPackage(), new RNSharePackage(), new RNPlayAudioPackage());
+            new RNSharePackage(),
+            new RNPlayAudioPackage(),
+            new LinearGradientPackage(),
+            new PickerPackage(),
+            new RNGoogleSigninPackage(),
+            new FBSDKPackage(mCallbackManager)
+      );
     }
 
     @Override

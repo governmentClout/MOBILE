@@ -24,12 +24,12 @@
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/Users/mac/Desktop/projects/mobile/gclout/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",

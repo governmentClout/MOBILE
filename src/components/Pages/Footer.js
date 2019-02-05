@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Text, TouchableOpacity, View } from 'react-native';
 import { Actions } from 'react-native-router-flux';
-import { logo, SITE_COLOR, FACEBOOK_COLOR, TWITTER_COLOR, GOOGLE_COLOR, WHITE } from './../../style';
+import { SITE_COLOR } from './../../style';
 
 const Footer = () => {
     return (
@@ -38,8 +38,8 @@ const styles = {
     footercontent: {
         flexDirection: 'row',
         justifyContent: 'space-between',
-        marginLeft: 20,
-        marginRight: 20,
+        paddingLeft: 10,
+        paddingRight: 10,
         marginTop: 10,
         marginBottom: 10,
     },

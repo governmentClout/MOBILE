@@ -1219,15 +1219,7 @@ int string common_google_play_services_wear_update_text 0x7f070038
 int string common_open_on_phone 0x7f070039
 int string common_signin_button_text 0x7f07003a
 int string common_signin_button_text_long 0x7f07003b
-int string default_web_client_id 0x7f070069
-int string firebase_database_url 0x7f07006a
-int string gcm_defaultSenderId 0x7f07006b
-int string google_api_key 0x7f07006c
-int string google_app_id 0x7f07006d
-int string google_crash_reporting_api_key 0x7f07006e
-int string google_storage_bucket 0x7f07006f
-int string messenger_send_button_text 0x7f070070
-int string project_id 0x7f070071
+int string messenger_send_button_text 0x7f070069
 int string search_menu_title 0x7f07003c
 int string status_bar_notification_info_overflow 0x7f07003d
 int string tw__login_btn_txt 0x7f07003e

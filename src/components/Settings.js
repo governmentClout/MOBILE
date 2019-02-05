@@ -63,27 +63,7 @@ class Settings extends Component {
                 <Card style={{ flex: 1, marginLeft: 0, marginTop: 25, marginRight: 0 }}>
                     <Content>
                         <List>
-                            <ListItem style={[styles.listItemStyle, { paddingLeft: 0 }]}>
-                                <View style={{ flexDirection: 'row' }}>
-                                    <View style={{ borderLeftWidth: 5, borderLeftColor: SITE_COLOR, marginRight: 10 }}></View>
-                                    <Text style={{ fontSize: 15, fontFamily: FONT_FAMILY, fontWeight: 'bold' }}> Legal, Help & Others </Text>
-                                </View>
-
-                            </ListItem>
-                            <ListItem style={styles.listItemStyle}>
-                                <Left>
-                                    <Text style={styles.settingTextTitle}>Feedback/Suggestions</Text>
-                                </Left>
-
-                            </ListItem>
-
-
-                            <ListItem style={styles.listItemStyle}>
-                                <Left>
-                                    <Text style={styles.settingTextTitle}>Contact Us</Text>
-                                </Left>
-
-                            </ListItem>
+                           
 
                             <ListItem style={styles.listItemStyle}>
                                 <Left>
