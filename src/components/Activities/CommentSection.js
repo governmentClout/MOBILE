@@ -35,7 +35,7 @@ class CommentSection extends Component {
 
         const { useravatar, comment, style, firstname, lastname, commentuuid } = this.props;
         let image = null;
-        if (useravatar != undefined && useravatar != "") {
+        if (useravatar != undefined && useravatar != "" && useravatar != null && /((https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-])\/?.+)/.test(useravatar)) {
             image = { uri: useravatar };
         } else {
             image = avatar;

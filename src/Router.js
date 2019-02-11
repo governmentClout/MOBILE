@@ -29,7 +29,7 @@ import Faq from './components/Pages/Faq';
 import Privacy from './components/Pages/Privacy';
 import Tos from './components/Pages/Tos';
 
-import { avatar, logo, SITE_COLOR, FACEBOOK_COLOR, TWITTER_COLOR, GOOGLE_COLOR, WHITE } from './style';
+import { avatar, logo, SITE_COLOR, FACEBOOK_COLOR, TWITTER_COLOR, GOOGLE_COLOR, WHITE, GREY } from './style';
 import CreatePetition from './components/Activities/CreatePetition';
 import FilterPetition from './components/Activities/FilterPetition';
 import CreatePost from './components/Activities/CreatePost';
@@ -241,7 +241,8 @@ class RouterComponent extends Component {
                     <Scene key="createpost"
                         title="Post"
                         backTitle="Back"
-                        titleStyle={{ fontWeight: 'normal' }}
+                        titleStyle={{ fontWeight: 'normal', flex: 1 }}
+                        navigationBarStyle={{elevation: 0, borderBottomWidth: 1, borderBottomColor: GREY}}
                         backButtonTintColor={SITE_COLOR}
                         hideNavBar={false}
                         component={CreatePost} />

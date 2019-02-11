@@ -13,7 +13,7 @@ import { Actions } from 'react-native-router-flux';
 import { connect } from 'react-redux';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import FontAwesomeIcon from 'react-native-vector-icons/FontAwesome';
-
+import moment from 'moment';
 import { setActivePost, getComments, likePost, setSharableContent, unlikePost, toggleShareModalVisibility } from './../../redux/actions';
 import { Text } from './../Reusables';
 import { hasLikes } from './../../Helper';
@@ -76,7 +76,7 @@ class Article extends Component {
         const { post, style, user, likes, comments, shares, location, postuuid, attachment } = this.props;
 
         let image = null;
-        if (user) {
+        if (user && /((https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-])\/?.+)/.test(user.photo)) {
             image = { uri: user.photo };
         } else {
             image = avatar;
@@ -95,6 +95,9 @@ class Article extends Component {
                             <Text note></Text>
                         </Body>
                     </Left>
+                    <Right>
+                        <Text style={{fontSize: 12}}>{moment(post.created_at).fromNow()}</Text>
+                    </Right>
                 </CardItem>
                 <CardItem cardBody>
                     <Text style={{ marginRight: 15, marginLeft: 20, paddingBottom: 20, textAlign: 'justify' }}>

@@ -6,7 +6,8 @@ import {
     Button, Tab, Tabs,
     TabHeading, Badge, Label,
     Picker, Thumbnail, Textarea,
-    Form, List
+    Form, List, Card, CardItem,
+    Left
 } from 'native-base';
 import { Image, View, TouchableOpacity, ScrollView } from 'react-native';
 import { Actions } from 'react-native-router-flux';
@@ -16,7 +17,7 @@ import FontAwesomeIcon from 'react-native-vector-icons/FontAwesome';
 import Dash from 'react-native-dash';
 
 
-import { logo, avatar, backdrop, SITE_COLOR, FACEBOOK_COLOR, FONT_FAMILY, TWITTER_COLOR, GOOGLE_COLOR, WHITE } from './../../style';
+import { logo, avatar, backdrop, SITE_COLOR, FACEBOOK_COLOR, FONT_FAMILY, TWITTER_COLOR, GOOGLE_COLOR, WHITE, GREY } from './../../style';
 import Profile from './../User/Profile';
 import { commentUpdate, getComments, createComment, registerView } from './../../redux/actions';
 import CommentSection from './CommentSection';
@@ -55,6 +56,7 @@ class Comment extends Component {
                         renderRow={(item) =>
                             <ListItem style={styles.listItemStyle}>
                                 <CommentSection
+                                    
                                     useravatar={item.user[0].photo}
                                     commentuuid={item.comment.uuid}
                                     style={{ flex: 1, borderBottomWidth: 0 }}
@@ -83,10 +85,43 @@ class Comment extends Component {
 
 
     render() {
-
+        let image = null;
+        if (this.props.user) {
+            image = { uri: this.props.user.photo };
+        } else {
+            image = avatar;
+        }
+        let bgattachment = this.props.attachment == undefined || this.props.attachment == '' ? false : true;
         return (
             <View style={{ backgroundColor: '#fff', flex: 1, flexDirection: 'column', justifyContent: 'space-between' }}>
                 <ScrollView>
+                {this.props.user ? <Card style={[{ elevation: 0, marginTop: 0, borderTopWidth: 0 }]}>
+                <CardItem style={{backgroundColor: GREY}}>
+                    <Left>
+                        <TouchableOpacity onPress={() => Actions.userprofile({ frienduuid: this.props.post.user })}>
+                            <Thumbnail small source={image} />
+                        </TouchableOpacity>
+                        <Body>
+                            <Text>{this.props.user.firstName} {this.props.user.lastName}</Text>
+                            <Text note></Text>
+                        </Body>
+                    </Left>
+                </CardItem>
+                <CardItem cardBody style={{backgroundColor: GREY}}>
+                    <Text style={{ marginRight: 15, marginLeft: 20, paddingBottom: 20, textAlign: 'justify' }}>
+                        {this.props.post.post}
+                    </Text>
+                </CardItem>
+                {bgattachment ?
+                    <CardItem style={{backgroundColor: GREY}}>
+                        <Body>
+                            <Image source={attachment} style={{ height: 230, width: '100%', flex: 1 }} />
+
+                        </Body>
+                    </CardItem>
+                    : <View></View>
+                }
+                </Card>: null}
 
                     {this.renderComments()}
 
@@ -101,16 +136,16 @@ class Comment extends Component {
                                 style={{ flex: 1 }}
                                 value={this.props.comment}
                                 onChangeText={value => { this.props.commentUpdate({ prop: 'comment', value: value }) }}
-                                placeholder='Type a message' />
+                                placeholder='Type comment here' />
                         </Item>
                     </Content>
                     <View style={{ flexDirection: 'column', justifyContent: 'flex-end' }}>
 
                         <View style={{ flexDirection: 'row', justifyContent: 'flex-end', paddingTop: 5, paddingBottom: 5 }}>
 
-                            <TouchableOpacity style={{ marginRight: 15 }}>
+                            {/* <TouchableOpacity style={{ marginRight: 15 }}>
                                 <FontAwesomeIcon size={22} name="smile-o" />
-                            </TouchableOpacity>
+                            </TouchableOpacity> */}
 
                             {this.renderSendButton()}
                         </View>
@@ -189,10 +224,9 @@ const tabIconSize = 20;
 const mapStateToProps = (state) => {
     const { comments, comment } = state.comment;
     const { activePost } = state.post;
-    const { user } = state.auth;
     const { isLoading } = state.loading;
-    // console.log(state.comments);
-    return { comments, user, activePost, comment, isLoading };
+    console.log(activePost);
+    return { comments, post: activePost.post, comment, isLoading, user: activePost.user[0] };
 };
 
 export default connect(mapStateToProps, { commentUpdate, createComment, getComments, registerView })(Comment);

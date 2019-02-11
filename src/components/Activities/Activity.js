@@ -79,26 +79,25 @@ class Activity extends Component {
 
     render() {
         const data = [50, 10, 40, 95, -4, -24, 85, 91, 35, 53, -53, 24, 50, -20, -80]
-
+        let image = avatar;
+        if (this.props.user.photo != '') {
+            image = { uri: this.props.user.photo }
+        }
 
         return (
             <ScrollView style={{ backgroundColor: '#dcdcdc' }}>
                 <SocialShare />
-                <View style={{ padding: 5 }}>
-                    <View style={styles.postArticleSegmentStyle}>
-                        <TouchableOpacity onPress={() => Actions.createpost()} style={[styles.buttonSegmentStyle, { borderTopLeftRadius: 25, borderBottomLeftRadius: 25 }]}>
-                            <View style={{ alignSelf: 'center', flexDirection: 'row' }}>
-                                <FontAwesomeIcon name="file" color={SITE_COLOR} size={20} />
-                                <Text style={{ paddingLeft: 15 }}>Post</Text>
-                            </View>
-                        </TouchableOpacity>
-                        <TouchableOpacity onPress={() => Actions.createarticle()} style={[styles.buttonSegmentStyle, { borderTopRightRadius: 25, borderBottomRightRadius: 25 }]}>
-                            <View style={{ alignSelf: 'center', flexDirection: 'row' }}>
-                                <FontAwesomeIcon name="calendar" color={SITE_COLOR} size={20} />
-                                <Text style={{ paddingLeft: 15 }}>Article</Text>
-                            </View>
-                        </TouchableOpacity>
-                    </View>
+                <View style={{flexDirection: 'row', marginLeft: 5, marginRight: 15, paddingTop: 10, paddingBottom: 10}}>
+                    <TouchableOpacity onPress={() => Actions.profile()}>
+                        <Thumbnail
+                            source={image}
+                            
+                            style={{ width: 40, height: 40, marginLeft: 20, marginTop: 7, marginRight: 10 }}
+                        />
+                    </TouchableOpacity>
+                    <TouchableOpacity onPress={() => Actions.createpost()} style={{backgroundColor: WHITE, width: '80%', borderRadius: 4}}>
+                        <Text style={{textAlign: 'center', paddingTop: 10}}>What's on your mind ?</Text>
+                    </TouchableOpacity>
                 </View>
 
 

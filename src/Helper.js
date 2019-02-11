@@ -121,7 +121,7 @@ const filterPost = (uuid, posts) => {
     let activePost = {};
     for (let i in posts) {
         if (posts[i].post.uuid == uuid) {
-            activePost = posts[i].post;
+            activePost = posts[i];
         }
     }
     return activePost;

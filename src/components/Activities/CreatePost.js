@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
 import {
-    Container, Header, Body,
-    Content, Input, ListItem,
-    Item, CheckBox, DatePicker,
-    Button, Tab, Tabs,
-    TabHeading, Badge, Label,
+    List, ListItem, Content,
     Picker, Thumbnail, Textarea,
     Form
 } from 'native-base';
@@ -49,7 +45,7 @@ class CreatePost extends Component {
 
         return (
             <View style={{ backgroundColor: '#fff', flex: 1, flexDirection: 'column', justifyContent: 'space-between' }}>
-                <Content style={{ marginLeft: 20, marginRight: 20 }}>
+                <Content style={{ marginLeft: 20 }}>
 
                     <View style={{marginBottom: 10}}>
                         <Text style={{color: 'red', textAlign: 'center'}}>{this.props.error}</Text>
@@ -61,27 +57,65 @@ class CreatePost extends Component {
                             <Textarea
                                 value={this.props.post}
                                 onChangeText={value => { this.props.postUpdate({ prop: 'post', value: value }) }}
-                                rowSpan={5}
+                                rowSpan={15}
                                 placeholder="Type post here ..." />
                         </Form>
                     </View>
+
+                    
 
                 </Content>
 
 
 
                 <View style={{ flexDirection: 'column', justifyContent: 'flex-end' }}>
-                    <View style={{ flexDirection: 'row', justifyContent: 'flex-end', paddingTop: 5, paddingBottom: 5 }}>
-                        <TouchableOpacity style={{ marginRight: 15 }}>
-                            <FontAwesomeIcon size={22} name="image" />
-                        </TouchableOpacity>
+                <List>
+                            <ListItem onPress={() => Actions.dashboard()} style={{}}>
+                                <View style={{flexDirection: 'row'}}>
+                                    <Icon color={SITE_COLOR} name="camera" size={21} />
+                                    <Text style={{paddingLeft: 20}}>Photo / Video</Text>                       
+                                </View>
 
-                        <TouchableOpacity style={{ marginRight: 15 }}>
-                            <FontAwesomeIcon size={22} name="smile-o" />
-                        </TouchableOpacity>
+                            </ListItem>
+
+                            <ListItem onPress={() => Actions.dashboard()} style={{}}>
+                                <View style={{flexDirection: 'row'}}>
+                                    <Icon color={SITE_COLOR} name="camera" size={21} />
+                                    <Text style={{paddingLeft: 20}}>Article</Text>                       
+                                </View>
+
+                            </ListItem>
+
+                            <ListItem onPress={() => Actions.dashboard()} style={{}}>
+                                <View style={{flexDirection: 'row'}}>
+                                    <Icon color={SITE_COLOR} name="camera" size={21} />
+                                    <Text style={{paddingLeft: 20}}>Petition</Text>                       
+                                </View>
+
+                            </ListItem>
+
+                            <ListItem onPress={() => Actions.dashboard()} style={{}}>
+                                <View style={{flexDirection: 'row'}}>
+                                    <Icon color={SITE_COLOR} name="map-marker" size={21} />
+                                    <Text style={{paddingLeft: 20}}>Location</Text>                       
+                                </View>
+
+                            </ListItem>
+
+                            <ListItem onPress={() => Actions.dashboard()} style={{}}>
+                                <View style={{flexDirection: 'row'}}>
+                                    <Icon color={SITE_COLOR} name="map-marker" size={21} />
+                                    <Text style={{paddingLeft: 20}}>Poll</Text>                       
+                                </View>
+
+                            </ListItem>
+
+                        </List>
+                    {/* <View style={{ flexDirection: 'row', justifyContent: 'flex-end', marginTop: 15, paddingBottom: 5 }}>
+                      
 
                         {this.renderSendButton()}
-                    </View>
+                    </View> */}
                 </View>
             </View>
         );

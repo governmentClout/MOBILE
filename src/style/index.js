@@ -1,5 +1,7 @@
 const SITE_COLOR = '#00B0F0';
 
+const GREY = '#E0E0E0';
+
 const TWITTER_COLOR = '#1DA1F2';
 
 const FACEBOOK_COLOR = '#4267b2';
@@ -23,5 +25,5 @@ const posttab = require('./../assets/images/post.png');
 export {
     SITE_COLOR, sign, logo, avatar, backdrop,
     FACEBOOK_COLOR, TWITTER_COLOR, GOOGLE_COLOR,
-    WHITE, FONT_FAMILY, posttab
+    WHITE, FONT_FAMILY, posttab, GREY
 }
